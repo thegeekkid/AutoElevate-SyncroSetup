@@ -13,4 +13,4 @@ Please note that the following variables need to be configured in Syncro (see sc
 
 Also please be sure to upload the MSI and set it to save to C:\AESetup.msi.
 
-[Sycnro Screenshot]: https://raw.githubusercontent.com/thegeekkid/AutoElevate-SyncroSetup/master/Screenshots/Syncro-VariableSetup.jpg "Syncro Screenshot"
+![Sycnro Screenshot](https://raw.githubusercontent.com/thegeekkid/AutoElevate-SyncroSetup/master/Screenshots/Syncro-VariableSetup.jpg "Syncro Screenshot")
